@@ -1,0 +1,172 @@
+golang-github-linuxdeepin-go-dbus-factory (2.0.26) unstable; urgency=medium
+
+  * feat: add finger-needed property to fprint device interface
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 27 Feb 2026 15:06:25 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.25) unstable; urgency=medium
+
+  * feat: add window maximize and unmaximize methods
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 05 Feb 2026 19:22:19 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.24) unstable; urgency=medium
+
+  * feat: add DeviceList property to touchpad interface
+
+ -- zhangkun <zhangkun2@uniontech.com>  Wed, 07 Jan 2026 14:05:37 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.23) unstable; urgency=medium
+
+  * chore: remove deprecated cursor helper D-Bus interfaces
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 25 Dec 2025 19:28:07 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.22) unstable; urgency=medium
+
+  * chore: remove powermanager1 D-Bus service files
+
+ -- fuleyi <fuleyi@uniontech.com>  Thu, 06 Nov 2025 14:47:54 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.21) unstable; urgency=medium
+
+  * chore: remove deprecated apps modules
+
+ -- fuleyi <fuleyi@uniontech.com>  Thu, 16 Oct 2025 16:55:03 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.20) unstable; urgency=medium
+
+  * chore: remove deprecated fprintd1 service files
+
+ -- fuleyi <fuleyi@uniontech.com>  Thu, 25 Sep 2025 20:20:53 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.19) unstable; urgency=medium
+
+  * feat: 添加控制中心接口
+
+ -- YeShanShan <yeshanshan@uniontech.com>  Fri, 19 Sep 2025 10:53:02 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.18) unstable; urgency=medium
+
+  * feat: 多屏场景下支持合盖后自动切换仅外屏显示
+
+ -- YeShanShan <yeshanshan@uniontech.com>  Thu, 18 Sep 2025 19:53:35 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.17) unstable; urgency=medium
+
+  * chore: update 1st-party dependency in go.mod and go.sum
+
+ -- fuleyi <fuleyi@uniontech.com>  Fri, 15 Aug 2025 09:03:42 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.16) unstable; urgency=medium
+
+  * Release 2.0.16
+
+ -- fuleyi <fuleyi@uniontech.com>  Fri, 08 Aug 2025 09:27:18 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.15) unstable; urgency=medium
+
+  * feat: 增加fido接口 (#132)
+
+ -- fuleyi <fuleyi@uniontech.com>  Wed, 30 Jul 2025 11:41:44 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.14) unstable; urgency=medium
+
+  * feat: update ConfigManager D-Bus interface
+
+ -- YeShanShan <yeshanshan@uniontech.com>  Thu, 19 Jun 2025 10:39:00 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.13) unstable; urgency=medium
+
+  * feat: add isDefaultValue method to ConfigManager
+
+ -- YeShanShan <yeshanshan@uniontech.com>  Tue, 13 May 2025 20:57:49 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.12) unstable; urgency=medium
+
+  * chore: add org.deepin.dde.grub2
+
+ -- fuleyi <fuleyi@uniontech.com>  Tue, 22 Apr 2025 21:29:59 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.11) unstable; urgency=medium
+
+  * fix(audio): 添加日历接口的调
+
+ -- fuleyi <fuleyi@uniontech.com>  Thu, 05 Dec 2024 14:09:19 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.10) unstable; urgency=medium
+
+  * chore: 更正bluez属性Percentage为byte (#119)
+
+ -- fuleyi <fuleyi@uniontech.com>  Thu, 14 Nov 2024 13:17:22 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.9) unstable; urgency=medium
+
+  * chore: regenerate code
+  * chore: rename com.deepin.lastore.Agent to org.deepin.dde.Lastore1.Agent
+  * chore: IPWatchd接口名调整
+  * chore: 接口整改
+
+ -- fuleyi <fuleyi@uniontech.com>  Fri, 18 Oct 2024 16:19:26 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.8) unstable; urgency=medium
+
+  * feat: add org.freedesktop.timedate1 interface
+
+ -- dengbo <dengbo@deepin.org>  Mon, 27 Nov 2023 10:04:20 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.7) unstable; urgency=medium
+
+  * add new am dbus interface
+
+ -- dengbo <dengbo@deepin.org>  Mon, 06 Nov 2023 16:03:20 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.6) unstable; urgency=medium
+
+  * use new am interface instead
+
+ -- chenhongtao <chenhongtao@deepin.org>  Wed, 11 Oct 2023 10:12:59 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.5) unstable; urgency=medium
+
+  * support show bluetooth battery
+
+ -- chenhongtao <chenhongtao@deepin.org>  Fri, 11 Aug 2023 10:22:59 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.3) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * chore: archlinux打包目录存在问题
+
+ -- dengbo <dengbo@uniontech.com>  Wed, 29 Mar 2023 16:33:32 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.2) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * feat: 增加原子更新封装(Influence: 增加原子更新封装)
+  * feat: 接口更变，增加V23接口(Task: 207483)(Influence: 接口更变)
+  * fix: Backlight的PATH错误修复(Task: 225039)(Influence: 无)
+
+ -- zhaoyingzhen <zhaoyingzhen@uniontech.com>  Tue, 13 Dec 2022 19:31:21 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.1) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * fix(net.reactivated.fprint): 因上游更新新增接口和自研接口冲突而导致接口变更(Bug: 141877)(Influence: 控制中心-删除指纹)
+  * feat: 兼容V20接口(Task: 166781)(Influence: 接口改为V23标准接口， 并兼容V20接口)
+  * fix: 修复部分V23接口没有生成正确的dbus服务路径问题(Bug: 157497)(Influence: 剪切板、更新、蓝牙、电源、系统信息相关功能)
+  * fix: 增加org.freedesktop.screensaver1(Bug: 157525)(Influence: 控制中心-电源-定时待机/锁屏/关闭显示器)
+
+ -- caixiangrong <caixiangrong@uniontech.com>  Wed, 19 Oct 2022 11:55:28 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (2.0.0.0) unstable; urgency=low
+
+  * release 2.0.0.0
+
+ --  <fanpengcheng@uniontech.com>  Tue, 14 June 2022 17:08:13 +0800
+
+golang-github-linuxdeepin-go-dbus-factory (1.0.0-1) unstable; urgency=low
+
+  * Auto Version update.
+
+ -- shuttle <shuttle@deepin.com>  Wed, 25 Oct 2017 01:40:10 +0000
