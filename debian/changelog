@@ -1,3 +1,9 @@
+golang-github-lingmo-go-dbus-factory (2.0.27) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Wed, 29 Apr 2026 00:50:00 +0800
+
 golang-github-linuxdeepin-go-dbus-factory (2.0.26) unstable; urgency=medium
 
   * feat: add finger-needed property to fprint device interface
