@@ -14,9 +14,9 @@ github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfn
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/linuxdeepin/go-gir v0.0.0-20250812023606-b28aaee32ac9/go.mod h1:a0tox5vepTQu5iO6rdKc4diGT+fkyXZlRROM8ULEvaI=
-github.com/linuxdeepin/go-lib v0.0.0-20250812091504-ef74b917a73a h1:G4wz/sQIg/rd6aJ82Sg4IfKMn/2HV5V2Ia0KS7o6Xhs=
-github.com/linuxdeepin/go-lib v0.0.0-20250812091504-ef74b917a73a/go.mod h1:2d0hhhqpr9UP9DRgnzU4y6nwdgUtM0qV94Wf0bzAI2g=
+github.com/LingmoOS/go-gir-generator v0.0.0-20250812023606-b28aaee32ac9/go.mod h1:a0tox5vepTQu5iO6rdKc4diGT+fkyXZlRROM8ULEvaI=
+github.com/LingmoOS/golang-github-lingmo-go-lib v0.0.0-20250812091504-ef74b917a73a h1:G4wz/sQIg/rd6aJ82Sg4IfKMn/2HV5V2Ia0KS7o6Xhs=
+github.com/LingmoOS/golang-github-lingmo-go-lib v0.0.0-20250812091504-ef74b917a73a/go.mod h1:2d0hhhqpr9UP9DRgnzU4y6nwdgUtM0qV94Wf0bzAI2g=
 github.com/linuxdeepin/go-x11-client v0.0.0-20220830090948-78fe92b727bb/go.mod h1:KwpmRZ47A/0a2l9V0V6aTlkuNaqy5j1fOqMFJONuIMY=
 github.com/mozillazg/go-pinyin v0.19.0/go.mod h1:iR4EnMMRXkfpFVV5FMi4FNB6wGq9NV6uDWbUuPhP4Yc=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=

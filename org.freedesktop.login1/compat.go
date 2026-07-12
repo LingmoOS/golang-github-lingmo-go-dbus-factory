@@ -2,7 +2,7 @@ package login1
 
 import (
 	godbus "github.com/godbus/dbus/v5"
-	systemlogin1 "github.com/linuxdeepin/go-dbus-factory/system/org.freedesktop.login1"
+	systemlogin1 "github.com/LingmoOS/golang-github-lingmo-go-dbus-factory/system/org.freedesktop.login1"
 )
 
 type ScheduledShutdown = systemlogin1.ScheduledShutdown

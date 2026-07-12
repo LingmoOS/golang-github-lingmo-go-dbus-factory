@@ -2,7 +2,7 @@ package fprint
 
 import (
 	godbus "github.com/godbus/dbus/v5"
-	systemfprint "github.com/linuxdeepin/go-dbus-factory/system/net.reactivated.fprint"
+	systemfprint "github.com/LingmoOS/golang-github-lingmo-go-dbus-factory/system/net.reactivated.fprint"
 )
 
 type ObjectManager = systemfprint.ObjectManager

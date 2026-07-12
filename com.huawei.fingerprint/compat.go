@@ -2,7 +2,7 @@ package fingerprint
 
 import (
 	godbus "github.com/godbus/dbus/v5"
-	systemhuawei "github.com/linuxdeepin/go-dbus-factory/system/com.huawei.fingerprint"
+	systemhuawei "github.com/LingmoOS/golang-github-lingmo-go-dbus-factory/system/com.huawei.fingerprint"
 )
 
 type Fingerprint = systemhuawei.Fingerprint

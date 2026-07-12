@@ -2,7 +2,7 @@ package dbus
 
 import (
 	godbus "github.com/godbus/dbus/v5"
-	systemdbus "github.com/linuxdeepin/go-dbus-factory/system/org.freedesktop.dbus"
+	systemdbus "github.com/LingmoOS/golang-github-lingmo-go-dbus-factory/system/org.freedesktop.dbus"
 )
 
 type DBus = systemdbus.DBus

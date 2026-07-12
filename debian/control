@@ -6,7 +6,7 @@ Build-Depends:
  debhelper-compat (= 11),
  dh-golang,
  golang-any,
- golang-github-linuxdeepin-go-lib-dev,
+ golang-github-lingmo-go-lib-dev,
  golang-github-stretchr-testify-dev,
  golang-golang-x-tools,
 Standards-Version: 4.5.1
@@ -14,10 +14,10 @@ Homepage: https://github.com/linuxdeepin/go-dbus-factory
 XS-Go-Import-Path: github.com/linuxdeepin/go-dbus-factory
 Testsuite: autopkgtest-pkg-go
 
-Package: golang-github-linuxdeepin-go-dbus-factory-dev
+Package: golang-github-lingmo-go-dbus-factory-dev
 Architecture: all
 Depends:
- golang-github-linuxdeepin-go-lib-dev,
+ golang-github-lingmo-go-lib-dev,
  golang-github-stretchr-testify-dev,
  ${misc:Depends},
  ${shlibs:Depends},

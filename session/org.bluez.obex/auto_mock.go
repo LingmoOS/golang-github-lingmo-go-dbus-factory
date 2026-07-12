@@ -9,8 +9,8 @@ import (
 	"fmt"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/linuxdeepin/go-dbus-factory/object_manager"
-	"github.com/linuxdeepin/go-lib/dbusutil/proxy"
+	"github.com/LingmoOS/golang-github-lingmo-go-dbus-factory/object_manager"
+	"github.com/LingmoOS/golang-github-lingmo-go-lib/dbusutil/proxy"
 	"github.com/stretchr/testify/mock"
 )
 

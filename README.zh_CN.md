@@ -64,7 +64,7 @@ gdbus introspect -e -d org.freedesktop.Notifications -o /org/freedesktop/Notific
 其中 Object 如果 Path 是固定的，则指定Path，如果 Path 不固定，则不指定 Path。
 
 如果 Object 具有多个接口，则需要指定 InterfaceConfig 的 Accessor 字段， 如果只具有一个接口，则不需要。
-参考 `com.deepin.daemon.apps/config.json`。
+参考 `com.lingmo.daemon.apps/config.json`。
 
 如果 Object 具有 org.freedestkop.DBus.ObjectManager 接口，则 InterfaceConfig 只需写 Name 字段就行，生成器对这个 interface 进行了特殊处理。
 

@@ -8,7 +8,7 @@ package timesync1
 import (
 	"fmt"
 
-	"github.com/linuxdeepin/go-lib/dbusutil/proxy"
+	"github.com/LingmoOS/golang-github-lingmo-go-lib/dbusutil/proxy"
 	"github.com/stretchr/testify/mock"
 )
 

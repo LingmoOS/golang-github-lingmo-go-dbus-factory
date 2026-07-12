@@ -1,10 +1,10 @@
-module github.com/linuxdeepin/go-dbus-factory
+module github.com/LingmoOS/golang-github-lingmo-go-dbus-factory
 
 go 1.20
 
 require (
 	github.com/godbus/dbus/v5 v5.1.0
-	github.com/linuxdeepin/go-lib v0.0.0-20250812091504-ef74b917a73a
+	github.com/LingmoOS/golang-github-lingmo-go-lib v0.0.0-20250812091504-ef74b917a73a
 	github.com/stretchr/testify v1.8.1
 )
 
