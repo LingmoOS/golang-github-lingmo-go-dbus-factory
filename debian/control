@@ -11,7 +11,7 @@ Build-Depends:
  golang-golang-x-tools,
 Standards-Version: 4.5.1
 Homepage: https://github.com/linuxdeepin/go-dbus-factory
-XS-Go-Import-Path: github.com/linuxdeepin/go-dbus-factory
+XS-Go-Import-Path: github.com/LingmoOS/golang-github-lingmo-go-dbus-factory
 Testsuite: autopkgtest-pkg-go
 
 Package: golang-github-lingmo-go-dbus-factory-dev
